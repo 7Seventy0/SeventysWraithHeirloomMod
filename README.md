@@ -1,4 +1,4 @@
-# SeventysWraithHairloomMod
+# SeventysKunaiMod
 
 
 How To Install!
